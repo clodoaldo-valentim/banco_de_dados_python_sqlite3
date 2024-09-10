@@ -1,0 +1,1 @@
+Nesetes dois arquivo procuro demonstrar de maneira simples, a coneexão com um servidor, a criação de um banco de dados e suas tabelas. Em outro arquivo mostro como inseerir dados nessas tabelas, procurei comentar linha a linha para facilitar a compreensão.
